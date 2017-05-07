@@ -24,6 +24,7 @@ gem "paperclip", "~> 3.0"
 gem 'figaro'
 gem 'fog-aws'
 gem 'carrierwave'
+gem 'fog'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
