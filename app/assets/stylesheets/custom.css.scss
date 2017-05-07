@@ -2,8 +2,10 @@
 @import "bootstrap";
 
 .bigcontainer {
+  padding-top: 50px;
   padding-left: 100px;
   padding-right: 100px;
+  background-color: #EFEEEE;
 }
 
 body {
@@ -13,7 +15,7 @@ body {
 }
 
 .navbar-default {
-  background-color: #EFEFEB;
+  background-color: #EFEEEE;
 }
 
 .navbar-default .navbar-brand {
