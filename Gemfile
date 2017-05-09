@@ -20,7 +20,7 @@ gem "mini_magick"
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
-gem "paperclip", "~> 3.0"
+gem 'paperclip'
 gem 'figaro'
 gem 'fog-aws'
 gem 'carrierwave'
