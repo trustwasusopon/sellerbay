@@ -51,3 +51,24 @@ body {
     font-size: 18px;
   }
 }
+
+.jumbotron {
+  //background-image: url('random-items.jpg');
+  background-image: linear-gradient(rgba(255,255,255,0.7),rgba(255,255,255,0.7)), url("random-items.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  h1, h2 {
+    font-family: guardian-egyptt, georgia, serif;
+    color: black;
+  }
+}
+
+//not finalized yet
+.jumbotron .bannerinside {
+  background-color: black;
+  opacity: 0.5;
+  height: 100px;
+  position: relative;
+
+
+}
